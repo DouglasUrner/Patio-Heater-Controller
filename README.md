@@ -21,4 +21,4 @@ Homebridge based controller for an infrared heater.
 
 [relay]: <https://www.czh-labs.com/tmp/madeimg/datasheet/d-1368.pdf>
 [install-hb]: <https://github.com/homebridge/homebridge/wiki/Install-Homebridge-on-Raspbian>
-0homebridge-rpi]: <https://github.com/ebaauw/homebridge-rpi>
+[homebridge-rpi]: <https://github.com/ebaauw/homebridge-rpi>
