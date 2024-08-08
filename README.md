@@ -24,3 +24,9 @@ Homebridge based controller for an infrared heater.
 [relay]: <https://www.czh-labs.com/tmp/madeimg/datasheet/d-1368.pdf>
 [install-hb]: <https://github.com/homebridge/homebridge/wiki/Install-Homebridge-on-Raspbian>
 [homebridge-rpi]: <https://github.com/ebaauw/homebridge-rpi>
+
+## To Do
+
+* Use a "switch" that allows three states: off, low, and high
+* Randomize the selection of the heating tube used for the low setting
+* Add a PIR sensor to detect the presence of people in the heater's coverage area, turn off the heater after a delay if there is no-one in the coverage area.
